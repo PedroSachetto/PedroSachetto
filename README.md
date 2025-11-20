@@ -4,7 +4,7 @@ Estou no 1° Ano na Etec Maria Criatina Medeiros no curso de TI,essa conta é de
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Estudando:
 
 <img 
     align="left" 
