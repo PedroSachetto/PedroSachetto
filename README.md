@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Este perfil do GitHub é destinado às matérias e aos projetos do curso de Informática para Internet da Etec Maria Cristina Medeiros. No momento, ele está focado no meu aprendizado Python,PHP, HTML e CSS.</h2>
+<h2 align="left">Este perfil do GitHub é destinado às matérias e aos projetos do curso de Informática para Internet da Etec Maria Cristina Medeiros. No momento, ele está focado no meu aprendizado Python, HTML e CSS.</h2>
 
 ###
 
@@ -15,7 +15,7 @@
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
+
 </div>
 
 ###
